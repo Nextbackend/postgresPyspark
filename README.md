@@ -6,7 +6,7 @@
 - java 8
 - postgres-connector 42.7.0
 
-* ### Add postgresql-42.7.0.jar to lib/pyspark/jars path  
+* #### note: Add postgresql-42.7.0.jar to lib/pyspark/jars path  
 
 * ### read in batch mode:  
 `jdbcDF = spark.read \
